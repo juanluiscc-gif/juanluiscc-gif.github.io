@@ -1,7 +1,4 @@
----
-layout: default
-title: "Inicio"
----
+<html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -11,7 +8,7 @@ title: "Inicio"
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="images/logo.png" type="image/png">
+    <link rel="icon" href="images/logo1.png" type="image/png">
     <!-- FontAwesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
@@ -34,7 +31,7 @@ title: "Inicio"
     </nav>
  <section class="hero">
         <div class="container">
-            <img src="images/logo1.png" alt="Juan Luis Cortés Cervantes" class="hero-logo">
+            <img src="images/logo1.png" alt="jlclogo" class="hero-logo">
             <h1>Juan Luis Cortés Cervantes</h1>
             <h2>Científico de Datos</h2>
             <p class="hero-text">La ciencia al servicio de la humanidad.</p>
@@ -63,9 +60,6 @@ title: "Inicio"
         </div>
     </footer>
 
-<script>document.getElementById('year').textContent = new Date().getFullYear();</script>
-
-<script src="/assets/js/repos.js"></script>
 
 </body>
 </html>
