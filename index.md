@@ -6,7 +6,7 @@ description: Portafolio profesional de Juan Luis Cortés Cervantes, científico 
 
 <section class="hero">
 
-<img src="{{ '/images/logo1.png' | relative_url }}" alt="Logo JLC" class="hero-logo">
+<img src="{{ '/images/logo1.png' | relative_url }}" alt="Logo JLC" width="500" height="291" style="objetc-fit: contain;">
 
 <h1>Juan Luis Cortés Cervantes</h1>
 <h2>Científico de Datos</h2>
