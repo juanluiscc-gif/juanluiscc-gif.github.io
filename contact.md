@@ -29,10 +29,10 @@
             </div>
         </div>
     </nav>
- 
- <section id="contact" class="connect">
+ <section class="hero">
         <div class="container">
-            <h2 class="section-title">Conectemos</h2>
+            <img src="images/logo1.png" alt="jlclogo" class="hero-logo">
+            <h1>Conectemos</h1>
             <p class="section-subtitle">¿Interesado en colaborar en proyectos sobre difusión de la ciencia, psicoanálisis, educación, economía o finanzas? Encuéntrame en mis redes.</p>
             <div class="social-grid">
                 <a href="https://www.linkedin.com/in/juan-luis-cortés-cervantes/" target="_blank" class="social-card linkedin">
