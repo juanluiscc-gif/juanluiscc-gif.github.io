@@ -2,6 +2,7 @@
 layout: default
 title: Proyectos
 description: Portafolio de proyectos en ciencia de datos de Juan Luis Cortés Cervantes.
+permalink: /projects/
 ---
 
 # Proyectos
