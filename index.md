@@ -2,7 +2,6 @@
 layout: default
 title: Inicio
 description: Portafolio profesional de Juan Luis Cortés Cervantes, científico de datos enfocado en análisis, visualización y desarrollo de soluciones con impacto social.
-permalink: /index/
 ---
 
 <section class="hero">
