@@ -6,7 +6,7 @@ description: Portafolio de proyectos en ciencia de datos de Juan Luis Cortés Ce
 
 # Proyectos
 
-Este portafolio reúne proyectos de **ciencia de datos** orientados a la comprensión de fenómenos sociales, económicos y técnicos mediante análisis riguroso, visualización clara y modelos reproducibles.
+Este portafolio reúne proyectos de **ciencia de datos** orientados a la comprensión de fenómenos sociales, económicos y técnicos, mediante análisis riguroso, visualización clara y desarrollo de soluciones aplicadas.
 
 ---
 
@@ -15,21 +15,22 @@ Este portafolio reúne proyectos de **ciencia de datos** orientados a la compren
 ### Desarrollo de aplicación de Educación Financiera
 
 **Problema**  
-Proporcionar una herramienta efectiva para comprender el uso del dinero y otros valores, ayudando a la población en general al sostenimiento de una relación favorable con el comercio y otros fenómenos.
+Diseñar una herramienta que facilite la comprensión del uso del dinero y de dinámicas económicas básicas, con el objetivo de fortalecer una relación más consciente y sostenible entre las personas, el comercio y el entorno social.
 
 **Datos**  
-Fuente pública / dataset abierto (CSV, SQL, API).
+Fuentes públicas y datasets abiertos (CSV, SQL, APIs), combinados con información estructurada para análisis exploratorio.
 
 **Herramientas**  
 TypeScript · JavaScript · Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter
 
 **Proceso**
-- Análisis exploratorio (EDA)
+- Análisis exploratorio de datos (EDA)
 - Visualización de variables clave
-- Interpretación de resultados
+- Identificación de patrones y relaciones relevantes
+- Integración del análisis en una aplicación web
 
 **Resultado**  
-Generación de contenido, desarrollo web, desarrollo de aplicaciones, identificación de patrones, anomalías y relaciones relevantes entre variables.
+Desarrollo de una aplicación orientada a la educación financiera, apoyada en análisis de datos y visualización, con énfasis en comprensión práctica, generación de contenido y aplicabilidad social.
 
 🔗 [Repositorio en GitHub](https://github.com/juanluiscc-gif/edufin)
 
@@ -39,16 +40,18 @@ Generación de contenido, desarrollo web, desarrollo de aplicaciones, identifica
 
 <div class="grid">
 
-<!-- Proyecto -->
 <div class="card">
-<h3>Estudio de la economía formal mexicana</h3>
-<p class="meta">Python · Pandas · SQL · Visualización</p>
-<p>El presente estudio se realiza con el objetivo de ilustrar los datos oficiales sobre las actividades económicas que se desarrollan en México.</p>
-<p>
-  <a href="https://github.com/juanluiscc-gif/eco-mex" target="_blank">Repositorio en GitHub</a>
-</p>
+  <h3>Estudio de la economía formal mexicana</h3>
+  <p class="meta">Python · Pandas · SQL · Visualización</p>
+  <p>
+    Análisis de datos oficiales para ilustrar la distribución y características de las actividades económicas formales en México, con énfasis en claridad interpretativa y visualización.
+  </p>
+  <p>
+    <a href="https://github.com/juanluiscc-gif/eco-mex" target="_blank">
+      Repositorio en GitHub
+    </a>
+  </p>
 </div>
-
 
 </div>
 
@@ -58,7 +61,7 @@ Generación de contenido, desarrollo web, desarrollo de aplicaciones, identifica
 
 - Análisis basado en datos reales
 - Claridad conceptual y metodológica
-- Énfasis en impacto y comprensión, no solo en métricas
+- Énfasis en comprensión e impacto, no solo en métricas
 - Código reproducible y documentado
 
 ---
