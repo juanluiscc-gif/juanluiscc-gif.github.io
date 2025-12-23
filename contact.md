@@ -2,6 +2,7 @@
 layout: default
 title: Contacto
 description: Información de contacto y canales profesionales de Juan Luis Cortés Cervantes.
+permalink: /contact/
 ---
 
 # Contacto
