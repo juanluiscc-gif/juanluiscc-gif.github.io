@@ -2,6 +2,7 @@
 layout: default
 title: Sobre mi
 description: Breve biografía de Juan Luis Cortés Cervantes.
+permalink: /about/
 ---
 
 # Sobre mi
