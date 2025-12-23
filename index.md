@@ -37,29 +37,18 @@
             <p class="hero-text">La ciencia al servicio de la humanidad.</p>
             <div class="cta-buttons">
                 <a href="projects.md" class="btn btn-primary">Ver Proyectos</a>
+                <a href="about.md" class="btn btn-primary">Sobre mi</a>
+                <a href="contact.md" class="btn btn-primary">Conectemos</a>
                 <a href="utils/Juan Cortés CV.pdf" download class="btn btn-secondary">Descargar CV</a>
             </div>
         </div>
     </section>
-
-<header class="hero">
-  <div class="container">
-    <h1>Juan Luis Cortés Cervantes (juanluiscc-gif)</h1>
-    <p class="lead">Científico de Datos • Proyectos & Portafolio</p>
-    <nav class="hero-nav">
-      <a href="#proyectos">Proyectos</a>
-      <a href="#sobre-mi">Sobre mí</a>
-      <a href="#contacto">Contacto</a>
-    </nav>
-  </div>
-</header>
 
 <footer>
         <div class="container">
             <p>&copy; 2025 Juan Luis Cortés Cervantes. Todos los derechos reservados.</p>
         </div>
     </footer>
-
 
 </body>
 </html>
