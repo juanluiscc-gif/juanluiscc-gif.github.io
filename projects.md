@@ -10,13 +10,12 @@ permalink: /projects/
 Este portafolio reúne proyectos de **ciencia de datos** orientados a la comprensión de fenómenos sociales, económicos y técnicos, mediante análisis riguroso, visualización clara y desarrollo de soluciones aplicadas.
 
 ---
+### Desarrollo de aplicación de Educación Financiera: Edufin. 
 
-## 🧠 Proyecto destacado
-
-### Desarrollo de aplicación de Educación Financiera
+<img src="{{ '/images/icon-1.jpg' | relative_url }}" alt="Edufin ICON" class="hero-logo">
 
 **Problema**  
-Diseñar una herramienta que facilite la comprensión del uso del dinero y de dinámicas económicas básicas, con el objetivo de fortalecer una relación más consciente y sostenible entre las personas, el comercio y el entorno social.
+Diseñar una herramienta para todas las edades que facilite la comprensión del uso del dinero y de dinámicas económicas básicas y complejas. Con el objetivo de fortalecer una relación más consciente y sostenible entre las personas, el comercio y el entorno social.
 
 **Datos**  
 Fuentes públicas y datasets abiertos (CSV, SQL, APIs), combinados con información estructurada para análisis exploratorio.
@@ -29,6 +28,7 @@ TypeScript · JavaScript · Python · Pandas · NumPy · Matplotlib · Seaborn �
 - Visualización de variables clave
 - Identificación de patrones y relaciones relevantes
 - Integración del análisis en una aplicación web
+- Estructuración de código
 
 **Resultado**  
 Desarrollo de una aplicación orientada a la educación financiera, apoyada en análisis de datos y visualización, con énfasis en comprensión práctica, generación de contenido y aplicabilidad social.
@@ -37,24 +37,32 @@ Desarrollo de una aplicación orientada a la educación financiera, apoyada en a
 
 ---
 
-## 📊 Proyectos
+### Estudio de la economía formal mexicana.
 
-<div class="grid">
+🔗 [Link a la aplicación web](https://eco-mex.onrender.com/)
 
-<div class="card">
-  <h3>Estudio de la economía formal mexicana</h3>
-  <p class="meta">Python · Pandas · SQL · Visualización</p>
-  <p>
-    Análisis de datos oficiales para ilustrar la distribución y características de las actividades económicas formales en México, con énfasis en claridad interpretativa y visualización.
-  </p>
-  <p>
-    <a href="https://github.com/juanluiscc-gif/eco-mex" target="_blank">
-      Repositorio en GitHub
-    </a>
-  </p>
-</div>
+**Problema**  
+Nos acercamos a la economía mexicana desde una perspectiva oficial. Con miras a buscar un estudio de la economía global, comenzamos analizando los datos de las empresas mexicanas registradas a mediados de 2025. 
 
-</div>
+**Datos**  
+https://datos.gob.mx/dataset/sistema_informacion_empresarial_mexicano
+
+**Herramientas**  
+Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter
+
+**Proceso**
+- Análisis exploratorio de datos (EDA)
+- LImpieza de datos
+- Visualización de variables clave
+- Construcción de categorías nuevas
+- Identificación de patrones y relaciones relevantes
+- Integración del análisis en una aplicación web
+- Estructuración de código
+
+**Resultado**  
+Se pudo observar una tendencia clara de la economía mexicana hacia la actividad comercial. Esta primera aproximación de la economía formal mexicana, servirá para un estudio detallado de dicha actividad en futuros estudios. 
+
+🔗 [Repositorio en GitHub](https://github.com/juanluiscc-gif/eco-mex)
 
 ---
 
