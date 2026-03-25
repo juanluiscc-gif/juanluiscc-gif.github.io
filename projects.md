@@ -15,23 +15,28 @@ Este portafolio reúne proyectos de **ciencia de datos** orientados a la compren
 
 <img src="{{ '/images/icon-1.jpg' | relative_url }}" alt="Edufin ICON" class="hero-logo">
 </br>
-**Problema**  
+####Problema
+
 Diseñar una herramienta para todas las edades que facilite la comprensión del uso del dinero y de dinámicas económicas básicas y complejas. Con el objetivo de fortalecer una relación más consciente y sostenible entre las personas, el comercio y el entorno social.
 </br>
-**Datos**  
+####Datos
+
 Fuentes públicas y datasets abiertos (CSV, SQL, APIs), combinados con información estructurada para análisis exploratorio.
 </br>
-**Herramientas**  
+####Herramientas
+
 TypeScript · JavaScript · Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter
 </br>
-**Proceso**
+####Proceso
+
 - Análisis exploratorio de datos (EDA)
 - Visualización de variables clave
 - Identificación de patrones y relaciones relevantes
 - Integración del análisis en una aplicación web
 - Estructuración de código
 </br>
-**Resultado**  
+####Resultado
+
 Desarrollo de una aplicación orientada a la educación financiera, apoyada en análisis de datos y visualización, con énfasis en comprensión práctica, generación de contenido y aplicabilidad social.
 </br>
 🔗 [Repositorio en GitHub](https://github.com/juanluiscc-gif/edufin)
