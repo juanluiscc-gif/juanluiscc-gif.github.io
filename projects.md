@@ -6,8 +6,9 @@ permalink: /projects/
 ---
 
 # Proyectos
-
+***
 Este portafolio reúne proyectos de **ciencia de datos** orientados a la comprensión de fenómenos sociales, económicos y técnicos, mediante análisis riguroso, visualización clara y desarrollo de soluciones aplicadas.
+</br>
 ---
 
 ### Desarrollo de aplicación de Educación Financiera: Edufin. 
