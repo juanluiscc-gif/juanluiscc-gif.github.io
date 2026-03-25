@@ -9,12 +9,12 @@ permalink: /projects/
 ***
 Este portafolio reúne proyectos de **ciencia de datos** orientados a la comprensión de fenómenos sociales, económicos y técnicos, mediante análisis riguroso, visualización clara y desarrollo de soluciones aplicadas.
 </br>
----
+***
 
 ### Desarrollo de aplicación de Educación Financiera: Edufin. 
 
 <img src="{{ '/images/icon-1.jpg' | relative_url }}" alt="Edufin ICON" class="hero-logo">
-
+</br>
 **Problema**  
 Diseñar una herramienta para todas las edades que facilite la comprensión del uso del dinero y de dinámicas económicas básicas y complejas. Con el objetivo de fortalecer una relación más consciente y sostenible entre las personas, el comercio y el entorno social.
 </br>
